@@ -10,7 +10,7 @@ Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Es
 
 ## 💼 Detalhes Profissionais
 - 🔭 Atualmente focado em **Projetos Full-Stack**
-- 🌱 Aprendendo e aprofundando conhecimentos em **C++**, **C** e **React**
+- 🌱 Aprendendo e aprofundando conhecimentos em **C++**, **C#** e **React**
 - 🎓 Cursando Desenvolvimento de Sistemas no Colégio Técnico da Unicamp
 
 ## 🛠️ Ferramentas e Tecnologias
