@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Estadual de Campinas (COTUCA/Unicamp), uma das instituições de ensino mais renomadas do país. Apaixonado por tecnologia e em constante processo de aprendizado no universo do desenvolvimento de software.
+Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Estadual de Campinas (COTIL/Unicamp). Apaixonado por tecnologia e em constante processo de aprendizado no universo do desenvolvimento de software.
 
 ## 💼 Detalhes Profissionais
 - 🔭 Atualmente focado em **Projetos Full-Stack**
