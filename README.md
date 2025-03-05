@@ -47,7 +47,6 @@ Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Es
        height="180em" 
   />
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fenyxrainbow&theme=react-dark)
 </div>
 
 ## 📬 Como me encontrar
