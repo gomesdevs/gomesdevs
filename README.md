@@ -40,7 +40,8 @@
 
 ## 🚧 Projetos em Destaque
 - [Transfer Learning](https://github.com/fenyxrainbow/Transfer-Learning) - Explorando o poder do aprendizado de máquina.
-
+- [Virtual Assistent](https://github.com/fenyxrainbow/VirtualAssistant) - Entendo o funcionamento de um assistente virtual
+- [Film Recommentation](https://github.com/fenyxrainbow/film-recommendation-system) - Um sistema de Recomendação de Filmes
 ---
 
 ## 🔥 Estatísticas do GitHub
@@ -70,5 +71,3 @@
 - 🔗 LinkedIn: [David Gomes](https://www.linkedin.com/in/david-gomes)
 
 ---
-
-### "A única constante é a mudança. E eu estou sempre evoluindo."
