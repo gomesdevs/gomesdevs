@@ -22,14 +22,14 @@ Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Es
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
-## 🧰 Ferramentas
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+## 🛠️ Ferramentas
+![VS Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ## 🚧 Projetos em Destaque
 - [Transfer Learning](https://github.com/fenyxrainbow/Transfer-Learning) - Projeto explorando técnicas de aprendizado de máquina
@@ -46,11 +46,9 @@ Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Es
        alt="Linguagens Mais Usadas" 
        height="180em" 
   />
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fenyxrainbow&theme=react-dark)
 </div>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fenyxrainbow&theme=react-dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fenyxrainbow&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📬 Como me encontrar
 - 📷 Instagram: [@gomes.pprt_](https://www.instagram.com/gomes.pprt/)
@@ -58,5 +56,3 @@ Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Es
 - 🔗 LinkedIn: [David Gomes](https://www.linkedin.com/in/david-gomes)
 
 **💡 Sempre em busca de novos desafios e aprendizados no mundo da tecnologia!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=fenyxrainbow&color=blueviolet)
