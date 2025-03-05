@@ -49,12 +49,12 @@
 ## 🔥 Estatísticas do GitHub
 <div align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=fenyxrainbow&show_icons=true&theme=radical" 
-       alt="Estatísticas do GitHub de FenyxRainbow" 
+       src="https://github-readme-stats.vercel.app/api?username=gomesdevs&show_icons=true&theme=radical" 
+       alt="Estatísticas do GitHub de Gomes" 
        height="180em" 
   />
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenyxrainbow&layout=compact&theme=radical" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesdevs&layout=compact&theme=radical" 
        alt="Linguagens Mais Usadas" 
        height="180em" 
   />
