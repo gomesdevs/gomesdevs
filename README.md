@@ -13,7 +13,7 @@ Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Es
 - 🌱 Aprendendo e aprofundando conhecimentos em **C++**, **C#** e **React**
 - 🎓 Cursando Desenvolvimento de Sistemas no Colégio Técnico da Unicamp
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Tecnologias
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,6 +21,15 @@ Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Es
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
+## 🧰 Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ## 🚧 Projetos em Destaque
 - [Transfer Learning](https://github.com/fenyxrainbow/Transfer-Learning) - Projeto explorando técnicas de aprendizado de máquina
@@ -39,9 +48,15 @@ Estudante de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Es
   />
 </div>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fenyxrainbow&theme=react-dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fenyxrainbow&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📬 Como me encontrar
 - 📷 Instagram: [@gomes.pprt_](https://www.instagram.com/gomes.pprt/)
 - 💻 Dev.to: [fenyxrainbow](https://dev.to/fenyxrainbow)
 - 🔗 LinkedIn: [David Gomes](https://www.linkedin.com/in/david-gomes)
 
 **💡 Sempre em busca de novos desafios e aprendizados no mundo da tecnologia!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=fenyxrainbow&color=blueviolet)
