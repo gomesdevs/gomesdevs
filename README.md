@@ -9,7 +9,9 @@
 ## 🚀 Sobre Mim
 
 👨‍💻 Desenvolvedor em constante evolução no Colégio Técnico da Unicamp (COTIL/Unicamp).
+<br>
 🌐 Explorador de tecnologias emergentes e entusiasta de experiências digitais.
+<br>
 🧠 Aprendendo C++, C#, React e buscando sempre o próximo nível.
 
 ---
@@ -56,11 +58,7 @@
        alt="Linguagens Mais Usadas" 
        height="180em" 
   />
-  <img 
-       src="https://github-readme-activity-graph.cyclic.app/graph?username=fenyxrainbow&theme=react-dark" 
-       alt="GitHub Activity Graph" 
-       height="180em" 
-  />
+
 </div>
 
 ---
