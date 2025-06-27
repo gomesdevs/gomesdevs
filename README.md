@@ -87,11 +87,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomesdevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesdevs&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesdevs&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomesdevs&theme=tokyo-night&hide_border=true" />
 </div>
