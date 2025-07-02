@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Building+Secure%2C+Scalable+Solutions;Full+Stack+%2B+Security+Expert;Ready+for+Your+Next+Challenge)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Building+Secure%2C+Scalable+Solutions;Full+Stack+%2B+Security+Analyst;Ready+for+Your+Next+Challenge)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎯%20Focus-FinTech%20%26%20Startups-6366F1?style=for-the-badge"/>
