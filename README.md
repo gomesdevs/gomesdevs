@@ -125,11 +125,6 @@ Building modern, secure applications with emphasis on performance, scalability, 
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesdevs&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
 <br>
 
 <div align="center">
