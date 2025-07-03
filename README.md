@@ -136,7 +136,7 @@ const whyDavidGomes = {
 </tr>
 </table>
 
-### 🌐 **Want to see more?** → [**Visit my Portfolio**](https://gomesdevs.github.io) ← **Complete project showcase**
+### 🌐 **Want to see more?** → [**Visit my Portfolio**](https://davidgomes.vercel.app) ← **Complete project showcase**
 
 </div>
 
@@ -218,7 +218,7 @@ Current Learning:
 
 ### **🚀 Ready to discuss how I can drive your next project?**
 
-<a href="https://gomesdevs.github.io">
+<a href="https://davidgomes.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20All%20Projects-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/david-gomes-8750b2276">
