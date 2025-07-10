@@ -176,7 +176,7 @@ const whyDavidGomes = {
 |:---:|:---:|:---:|
 | FinTech, Startup, Consulting | Full Stack Developer | Fast-paced, Innovation-driven |
 | Growing, Tech-forward | Security Engineer | Collaborative, Learning-focused |
-| Global mindset | Technical Lead | Remote-friendly, Results-oriented |
+| Global mindset | Infrastuture Analyst | Remote-friendly, Results-oriented |
 
 </div>
 
