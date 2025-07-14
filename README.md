@@ -20,11 +20,7 @@
 
 ---
 
-<div align="center">
-
 ## 🚀 About Me
-
-</div>
 
 Full Stack Developer with **SOC Operations** background, specializing in secure application development. I combine technical expertise with business understanding to deliver scalable, secure solutions that protect and perform.
 
@@ -38,9 +34,9 @@ Full Stack Developer with **SOC Operations** background, specializing in secure 
 
 ---
 
-<div align="center">
-
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### **Languages**
 
@@ -68,11 +64,7 @@ Full Stack Developer with **SOC Operations** background, specializing in secure 
 
 ---
 
-<div align="center">
-
 ## 🚀 Featured Projects
-
-</div>
 
 <table>
 <tr>
@@ -129,19 +121,11 @@ Full Stack Developer with **SOC Operations** background, specializing in secure 
 
 ---
 
-<div align="center">
-
 ## 🌍 Communication
-
-</div>
-
-<div align="center">
 
 | 🇧🇷 **Portuguese** | 🇺🇸 **English** | 🇪🇸 **Spanish** | 🇩🇪 **German** |
 |:---:|:---:|:---:|:---:|
 | **Native** | **Advanced** | **Intermediate** | **Basic** |
-
-</div>
 
 ---
 
