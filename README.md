@@ -24,19 +24,13 @@
 
 Full Stack Developer with **SOC Operations** background, specializing in secure application development. I combine technical expertise with business understanding to deliver scalable, secure solutions that protect and perform.
 
-<div align="center">
-
 ### ✨ **Key Strengths**
 
 🛡️ **Security-first development** • ⚡ **Full-stack proficiency** • 🔍 **SOC Operations experience** • 📊 **Threat detection expertise**
 
-</div>
-
 ---
 
 ## 💻 Tech Stack
-
-<div align="center">
 
 ### **Languages**
 
@@ -44,7 +38,6 @@ Full Stack Developer with **SOC Operations** background, specializing in secure 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 
 ### **Tools & Technologies**
 
@@ -59,8 +52,6 @@ Full Stack Developer with **SOC Operations** background, specializing in secure 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 ---
 
@@ -110,6 +101,8 @@ Full Stack Developer with **SOC Operations** background, specializing in secure 
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomesdevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesdevs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
@@ -135,14 +128,10 @@ Full Stack Developer with **SOC Operations** background, specializing in secure 
 
 **🚀 Currently available for new opportunities**
 
-<br>
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge&logoColor=white)](https://www.davidgomes.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgomesr)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gomesdevs)
 
-<br>
+---
 
 *Built with ❤️ by David Gomes*
-
-</div>
