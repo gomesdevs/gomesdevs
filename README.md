@@ -95,20 +95,6 @@ Full Stack Developer with **SOC Operations** background, specializing in secure 
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomesdevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesdevs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-</div>
 
 ---
 
