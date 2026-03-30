@@ -1,121 +1,154 @@
 <div align="center">
 
-# David Gomes
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Security+Engineer;Building+Secure+Solutions" alt="Typing SVG" />
-
----
-
-### 🎯 **Full Stack Developer & Security Engineer**
-
-*Combining development expertise with security-first mindset to build scalable, secure applications*
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://www.davidgomes.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgomesr)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gomesdevs)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6366f1&height=180&section=header&text=David%20Gomes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Architect%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Security&descAlignY=58&descSize=16&descColor=a5b4fc" />
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+```
+> Building where performance meets security — real-time fintech, ML pipelines, and resilient systems.
+```
 
-Full Stack Developer with **SOC Operations** background, specializing in secure application development. I combine technical expertise with business understanding to deliver scalable, secure solutions that protect and perform.
+<br/>
 
-### ✨ **Key Strengths**
+## About
 
-🛡️ **Security-first development** • ⚡ **Full-stack proficiency** • 🔍 **SOC Operations experience** • 📊 **Threat detection expertise**
+Frontend Architect at **[Mansa S.A.](https://github.com/gomesdevs)** — defining the technical standards for a multi-platform financial ecosystem across Web, Mobile, and Desktop.
 
----
+Over the past 5 years I've moved across **front-end engineering**, **cybersecurity (SOC/risk)**, and **machine learning** — not as separate chapters, but as a single thread: build systems that are fast, secure, and hard to break.
 
-## 💻 Tech Stack
+A few things I've shipped that I'm proud of:
 
-### **Languages**
+- **–13%** reduction in payment system delays through DDoS mitigation
+- **87% accuracy** on stock price forecasts with LSTM models (10k+ daily data points)
+- **94% detection accuracy** on malicious network flows at 1,000+ flows/sec
+- **–60%** analysis time on financial data pipelines vs. manual methods
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+I write about what I build → [dev.to/gomesdevs](https://dev.to/gomesdevs)
 
-### **Tools & Technologies**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp&theme=dark" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&theme=dark" />
+
+**Backend, Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,mongodb,docker,aws,linux,git&theme=dark" />
+
+**ML / Security**
+
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+&nbsp;`Wireshark` &nbsp; `NMAP` &nbsp; `Splunk` &nbsp; `Streamlit` &nbsp; `Dash`
+
+</div>
+
+<br/>
+
+---
+
+## Selected Work
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**🤖 AI Film Recommender**
+### B3Forecast
+*Financial forecasting platform — personal project*
 
+LSTM neural networks (TensorFlow) + Streamlit for end-to-end stock analysis. Achieved **87% prediction accuracy** processing 10k+ data points daily at sub-100ms latency for 50+ users.
+
+`Python` `TensorFlow` `Streamlit` `APIs`
+
+→ [github.com/gomesdevs](https://github.com/gomesdevs)
+
+</td>
+<td width="50%" valign="top">
+
+### ThreatSense
+*Network security intelligence dashboard — personal project*
+
+Real-time threat visualization processing **1,000+ flows/sec** with 94% detection accuracy. Built on Wireshark-captured datasets with 5,000+ labeled traffic samples.
+
+`Python` `Dash` `Wireshark` `ML`
+
+→ [github.com/gomesdevs](https://github.com/gomesdevs)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI Film Recommender
 *ML-powered recommendation engine*
+
+Collaborative and content-based filtering using Scikit-learn and Pandas for personalized movie recommendations.
 
 `Python` `Scikit-learn` `Pandas`
 
-[![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gomesdevs/film-recommendation-system)
+→ [View on GitHub](https://github.com/gomesdevs/film-recommendation-system)
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**🧠 Transfer Learning Model**
+### Virtual Assistant
+*NLP-powered voice assistant*
 
-*Advanced ML implementation*
-
-`Python` `TensorFlow` `Deep Learning`
-
-[![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gomesdevs/Transfer-Learning)
-
-</td>
-<td align="center" width="33%">
-
-**🤖 Virtual Assistant**
-
-*NLP-powered assistant*
+Natural language processing with speech recognition for task automation and contextual responses.
 
 `Python` `NLP` `Speech Recognition`
 
-[![View Project](https://img.shields.io/badge/View-Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gomesdevs/VirtualAssistant)
+→ [View on GitHub](https://github.com/gomesdevs/VirtualAssistant)
 
 </td>
 </tr>
 </table>
 
+<br/>
 
 ---
 
-## 🌍 Communication
+## Credentials
 
-| 🇧🇷 **Portuguese** | 🇺🇸 **English** | 🇪🇸 **Spanish** | 🇩🇪 **German** |
-|:---:|:---:|:---:|:---:|
-| **Native** | **Advanced** | **Intermediate** | **Basic** |
+| Certification | Issuer | Year |
+|---|---|---|
+| Machine Learning Practitioner | BairesDevs | 2025 |
+| Python Professional | Scrimba Pro | 2025 |
+| Bloomberg Finance Markets | Bloomberg | — |
+| Risk Analysis | Cisco | — |
+| English Certificate (B1.3+) | Berlitz | 2025 |
+
+<br/>
+
+---
+
+## Languages
+
+`Portuguese` Native &nbsp;·&nbsp; `English` Advanced (B2–C1) &nbsp;·&nbsp; `Spanish` Intermediate (B1) &nbsp;·&nbsp; `German` Basic (A1)
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 📬 Let's Connect
+**Available for new opportunities**
 
-**🚀 Currently available for new opportunities**
+[`🌐 davidgomes.tech`](https://www.davidgomes.tech) &nbsp;&nbsp; [`💼 LinkedIn`](https://www.linkedin.com/in/davidgomesr) &nbsp;&nbsp; [`✍️ Dev.to`](https://dev.to/gomesdevs) &nbsp;&nbsp; [`📩 david.gomes@programmer.net`](mailto:david.gomes@programmer.net)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge&logoColor=white)](https://www.davidgomes.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgomesr)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gomesdevs)
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f0f0f&height=100&section=footer" />
 
-*Built with ❤️ by David Gomes*
+</div>
