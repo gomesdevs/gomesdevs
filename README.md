@@ -45,8 +45,8 @@ Interactive threat intelligence platform processing 1,000+ network flows per sec
 **Bloomberg Finance Markets** — 2026  
 **Cisco Risk Analysis** — 2026
 
-**Berlitz Test B1.3** — 2026  
-**Machine Learning Practioner** — 2026  
+**Berlitz Test B1.3** — 2025  
+**Machine Learning Practioner** — 2024
 
 
 ---
